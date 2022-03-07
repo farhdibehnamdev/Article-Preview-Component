@@ -33,7 +33,7 @@ Users should be able to:
 ![](./images/desktop.png)
 ![](./images/desktop-hover.png)
 ![](./images/mobile.png)
-![](./images/mobile-first.png)
+![](./images/mobile-hover.png)
 
 ### Links
 
