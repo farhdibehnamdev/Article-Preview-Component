@@ -26,7 +26,8 @@ The template is a guide meant for you to explore and change to ✨*make it your 
 
 Users should be able to:
 
-- You can see pagination like other pagination 🤣🤣.
+- You can see hover
+- You can see responsive design
 
 ### Screenshot
 
@@ -37,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Pagination Component](https://farhdibehnamdev.github.io/Article-Preview-Component/)
+- Live Site URL: [Article Preview Component](https://farhdibehnamdev.github.io/Article-Preview-Component/)
 
 ## My process
 
