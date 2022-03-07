@@ -1,0 +1,45 @@
+@media (max-width: 954px) {
+  .container {
+    width: 400px;
+    overflow: hidden;
+  }
+  .grid--2-col {
+    grid-template-columns: 1fr;
+    grid-template-rows: 2.2fr 3fr;
+  }
+  .article-title {
+    padding-top: 12px;
+  }
+  .article-title h2 {
+    font-size: 21.6px;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+
+  .article-image {
+    border-radius: 10px 10px 0 0;
+  }
+  .share-popup {
+    padding: 25px 20px 25px 20px;
+    border-radius: 0 0 10px 10px;
+    justify-content: start;
+    bottom: 0;
+    left: 0;
+  }
+  .share-popup::after {
+    display: none;
+  }
+  .article-author-picture ion-icon {
+    z-index: 99999;
+    width: 14px;
+    height: 14px;
+    color: hsl(217, 19%, 35%);
+    margin-top: 18px;
+  }
+
+  .article-author-picture ion-icon:hover {
+    z-index: 99999;
+    color: hsl(210, 46%, 95%);
+    background-color: hsl(214, 17%, 51%);
+  }
+}
