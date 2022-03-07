@@ -30,7 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./pagination.jpg)
+![](./images/desktop.png)
+![](./images/desktop-hover.png)
+![](./images/mobile.png)
+![](./images/mobile-first.png)
 
 ### Links
 
